@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Sin rectángulo de fondo para mantener transparencia -->
+
+  <!-- Triángulo invertido con borde de neón blanco -->
+  <path d="M100 160 L160 80 L40 80 Z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-opacity="0.9" filter="drop-shadow(0 0 5px #ffffff)"/>
+
+  <!-- Ondas de sonido cristalinas en el centro -->
+  <g fill="#ffffff" fill-opacity="0.7">
+    <rect x="81" y="100" width="4" height="30" rx="2" ry="2"/>
+    <rect x="89" y="90" width="4" height="50" rx="2" ry="2"/>
+    <rect x="98" y="84" width="4" height="66" rx="2" ry="2"/>
+    <rect x="107" y="90" width="4" height="45" rx="2" ry="2"/>
+    <rect x="115" y="100" width="4" height="30" rx="2" ry="2"/>
+  </g>
+
+  <!-- Brillo de neón para las ondas -->
+  <g fill="#ffffff" fill-opacity="0.3" filter="drop-shadow(0 0 3px #ffffff)">
+    <rect x="81" y="110" width="4" height="10" rx="2" ry="2"/>
+    <rect x="89" y="110" width="4" height="10" rx="2" ry="2"/>
+    <rect x="98" y="110" width="4" height="10" rx="2" ry="2"/>
+    <rect x="107" y="110" width="4" height="10" rx="2" ry="2"/>
+    <rect x="115" y="110" width="4" height="10" rx="2" ry="2"/>
+  </g>
+
+</svg>
